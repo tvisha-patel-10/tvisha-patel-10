@@ -3,7 +3,6 @@
 Founding product designer currently leading design at [Strawberry.me](https://strawberry.me) — I mostly design, but apparently I also code my own portfolio now
 
 - 🎨 Portfolio: Currently being custom coded [here](https://github.com/tvisha-patel-10/tvisha-portfolio), reach out for my old one! <!-- update once domain is live -->
-- 💼 Previously at BetterHelp
 - 🌱 Not much code lives here (yet), but my commit history has grown this tree so far:
 
 <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
